@@ -6,6 +6,6 @@ The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 be
 """
 print(sum(list(filter(lambda x: x%3 == 0 or x%5 == 0,range(1000)))))
 
-#time = 0.036709102s
+#time = 0.036709102 seconds
 #answer = 233168
 #resposta = 233168
