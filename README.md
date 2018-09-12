@@ -1,5 +1,5 @@
-Coloquei aqui informações mais detalhadas sobre scripts que escrevi para resolver muitos problemas que estão no  ProjectEuler.net. Criei esses pequenos programas com  Python como experimentos para resolver os problemas matemáticos apresentados no site descrito da maneira mais eficaz e rápida que pude fazer. 
-Se você achar que pode melhorar o código, eu ficarei muito agradecido se colaborasse para melhorar o código e torná-lo mais eficiente, ou simplificar o código. 
-Se você gostaria de fazer algum comentário, por favor sinta-se à vontade para enviar um e-mail para:
+I have put here more detailed information about scripts I wrote to solve many problems that are in ProjectEuler.net. I created these small programs with Python as experiments to solve the mathematical problems presented in the described site in the most efficient and fast way that I could do.
+If you think you can improve the code, I'll be very grateful if you could help improve the code and make it more efficient, or simplify the code.
+If you would like to make any comments, please feel free to send an email to:
 matheussanchesleme@gmail.com.
 
