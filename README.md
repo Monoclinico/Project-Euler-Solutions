@@ -1,7 +1,4 @@
 
-<html>
-<head></head> 
-<body>
 <h1>Description</h1>  
 <p>  
 I have put here more detailed information about scripts I wrote to solve many problems that are in ProjectEuler.net. I created these small programs with Python as experiments to solve the mathematical problems presented in the described site in the most efficient and fast way that I could do.
@@ -15,7 +12,8 @@ matheussanchesleme@gmail.com.
 <p>  
 Problem 1:
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
-Find the sum of all the multiples of 3 or 5 below 1000.<a href="https://github.com/Monoclinico/Project-Euler-Solutions/blob/master/euler_1.py">See more...</a>
+Find the sum of all the multiples of 3 or 5 below 1000.
+<a href="https://github.com/Monoclinico/Project-Euler-Solutions/blob/master/euler_1.py">See more...</a>
 </p>
 </li>
 <li>
@@ -30,5 +28,3 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 </p>
 </li>  
 </ul>
-</body>
-</html> 
