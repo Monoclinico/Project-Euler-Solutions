@@ -7,7 +7,9 @@ If you would like to make any comments, please feel free to send an email to:
 matheussanchesleme@gmail.com.
 </p>
 <h2>Problems</h2>  
+
 <ul>
+  
 <li>
 <p>  
 Problem 1:<br/>
@@ -16,6 +18,7 @@ Find the sum of all the multiples of 3 or 5 below 1000.<br/>
 <a href="https://github.com/Monoclinico/Project-Euler-Solutions/blob/master/euler_1.py">See more...</a>
 </p>
 </li>
+  
 <li>
 <p>
 Problem 2:<br/>
@@ -27,4 +30,9 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 <a href="https://github.com/Monoclinico/Project-Euler-Solutions/blob/master/euler_2.py">See more...</a>
 </p>
 </li>  
+<p>
+The prime factors of 13195 are 5, 7, 13 and 29.<br/>
+What is the largest prime factor of the number 600851475143 ?<br/>
+<a href="https://github.com/Monoclinico/Project-Euler-Solutions/blob/master/euler_3.py">See more...</a>
+</p>
 </ul>
