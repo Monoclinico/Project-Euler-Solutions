@@ -51,5 +51,18 @@ Problem 5:<br/>
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?<br/>
 <a href="https://github.com/Monoclinico/Project-Euler-Solutions/blob/master/euler_5.py">See more...</a>
 </p>
-</li>  
+</li>
+<li>
+<p>
+Problem 6: <br/>
+The sum of the squares of the first ten natural numbers is,<br/>
+
+1<sup>2</sup> + 2<sup>2</sup> + ... + 10<sup>2</sup> = 385<br/>
+The square of the sum of the first ten natural numbers is,<br/>
+
+(1 + 2 + ... + 10)<sup>2</sup> = 55<sup>2</sup> = 3025<br/>
+Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is 3025 − 385 = 2640.<br/>
+Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
+</p>
+</li>
 </ul>
