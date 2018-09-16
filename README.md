@@ -44,4 +44,12 @@ Problem 4:<br/>
 A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.<br/>
 Find the largest palindrome made from the product of two 3-digit numbers.<br/><a href="https://github.com/Monoclinico/Project-Euler-Solutions/blob/master/euler_4.py">See more...</a></p>
 </li>
+<li>
+<p>
+Problem 5:<br/>
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.<br/>
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?<br/>
+<a href="https://github.com/Monoclinico/Project-Euler-Solutions/blob/master/euler_5.py">See more...</a>
+</p>
+</li>  
 </ul>
