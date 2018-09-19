@@ -102,6 +102,7 @@ Find the difference between the sum of the squares of the first one hundred natu
 </li>
 <li>
   <p>
+    Problem 9:<br/>
     A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,<br/>
     a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>.<br/>
     For example, 3<sup>2</sup> + 4<sup>2</sup> = 9 + 16 = 25 = 5<sup>2</sup>.<br/>
