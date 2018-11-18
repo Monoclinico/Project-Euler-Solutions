@@ -8,7 +8,6 @@ A palindromic number reads the same both ways. The largest palindrome made from 
 Find the largest palindrome made from the product of two 3-digit numbers.
 """
 
-
 def palin(p):
   if str(p) == str(p)[::-1]: return True
   else: return False 
