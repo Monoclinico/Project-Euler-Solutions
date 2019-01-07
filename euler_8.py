@@ -26,10 +26,8 @@ lista = list('73167176531330624919225119674426574742355349194934\
 g = 0
 for n in range(0, (len(lista) - 12)):
     r = 1
-    for d in range(13):
-        r *= int(lista[n + d])
-    if r >= g:
-        g = r
+    for d in range(13): r *= int(lista[n + d])
+    if r >= g: g = r
 print(f'{g}')
 #In Setup = Intel Core i3 530 2.93 GHz
 #Less time = 0.016 seconds
