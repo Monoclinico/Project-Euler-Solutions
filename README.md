@@ -1,4 +1,4 @@
-<img src="G:\Users\user\Documents\Matheus\python\euler_problems\github1\images\euler_image.jpg"  />
+<img src="./images/euler_image.jpg"  />
 
 <h1>Description</h1>  
 <p>  
