@@ -1,3 +1,4 @@
+<img src="G:\Users\user\Documents\Matheus\python\euler_problems\github1\images\euler_image.jpg"  />
 
 <h1>Description</h1>  
 <p>  
@@ -8,8 +9,8 @@ If you would like to make any comments, please feel free to send an email to: <a
 <h2>Problems</h2>  
 
 <ul>
-  
 <li>
+
 <p>  
 Problem 1:<br/>
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
@@ -17,7 +18,7 @@ Find the sum of all the multiples of 3 or 5 below 1000.<br/>
 <a href="https://github.com/Monoclinico/Project-Euler-Solutions/blob/master/euler_1.py">See more...</a>
 </p>
 </li>
-  
+
 <li>
 <p>
 Problem 2:<br/>
